@@ -1,0 +1,7 @@
+{
+  "name": "VELOCE - Luxury Automotive Experience",
+  "description": "A high-end, immersive luxury car landing page featuring 3D animations, parallax effects, and futuristic UI interactions.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
